@@ -1,0 +1,13 @@
+###git commands###
+#for adding user
+  --git config --global user.name "username"
+  --git config --global user.email "emailaddress"
+  --git config list
+#in project folder
+   --git init
+   --git status
+   --git add .
+   --git commit -m "message"
+   --git log
+   --git remote add origin "repository path"
+   --git push origin branchname(master/main)
